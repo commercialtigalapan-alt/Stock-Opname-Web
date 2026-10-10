@@ -1,2 +1,2 @@
-// Public project URL only. Never add a secret/service_role key here.
-window.STOCK_CONFIG={supabaseUrl:'https://rfczslkknlykuprlmfls.supabase.co'};
+// URL public saja. Jangan memasukkan API secret, password, atau token.
+window.STOCK_CONFIG={supabaseUrl:'https://rfczslkknlykuprlmfls.supabase.co',functionName:'stock-app'};
